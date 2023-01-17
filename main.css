@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #ccc;
+}
+
+header{
+    background-color: blue;
+    padding: 16px 0;
+    display: flex;
+    justify-content: center;
+}
+
+form{
+    padding: 16px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: #000;
+}
